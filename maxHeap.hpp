@@ -1,7 +1,7 @@
 /*
 	C++ Implementation for Max Heap 
 	version 1.0.0
-	https://github.com/xlong88/max_heap
+	https://github.com/xlong88/maxHeap
 */
 
 #ifndef MAX_HEAP_HPP
